@@ -1,0 +1,1 @@
+export const webRTC = jest.fn()
