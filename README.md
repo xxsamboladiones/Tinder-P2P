@@ -170,7 +170,7 @@ Este é um projeto educacional e de demonstração. Para uso em produção:
 
 - 🐛 **Issues**: [GitHub Issues](https://github.com/xxsamboladiones/Tinder-P2P/issues)
 - 💬 **Discussões**: [GitHub Discussions](https://github.com/xxsamboladiones/Tinder-P2P/discussions)
-- 📧 **Email**: [Contato do desenvolvedor]
+- 📧 **Email**: [Generatorasd@gmail.com]
 
 ---
 
